@@ -1,0 +1,15 @@
+table,tr, th ,td{
+    border: 1px solid black;
+    text-align: center;
+}
+.background
+{
+ background-image: url("../img/pattern.png");
+}
+ .App {
+    text-align: center;
+    display: flex;
+    min-height: 64vh;
+    margin: 0;
+  }
+  

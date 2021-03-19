@@ -1,0 +1,22 @@
+ul, li {
+    list-style:none;
+    padding:0;
+    margin:0;
+}
+.listWrapperr {
+    max-height:300px;
+    overflow-y:auto;
+}
+
+.h3money{
+    margin-top: 0px;
+}
+a{
+    margin-left: 5px;
+}
+.dontmove{
+    align-items: unset;
+    text-align: left;
+    display: unset;
+    justify-content: unset;
+}
